@@ -1,0 +1,13 @@
+{
+  "name": "cat-love-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React (CDN) + Node API demo for cat lovers: login, random cat images, and comments.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
